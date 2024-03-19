@@ -254,5 +254,4 @@ int main() {
         }
         //c=fgets(stringa,MAX,stdin);
     }
-    if(c){}
 }
